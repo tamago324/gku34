@@ -162,7 +162,7 @@ Remap か QMK を使用してキーマップを変更可能です。
 * Remap の場合: キーボードカタログの gku34 のページで設定可能です。
 * QMK の場合: [tamago324/qmk_firmware](https://github.com/tamago324/qmk_firmware/tree/tamago324/keyboards/tamago324/gku34) の `tamago324` ブランチの `keyboards/tamago324/gku34` にファームウェアがあります。また、バージョンは 0.18系です
 
-<details><summary>[GPK FWMaker](https://github.com/darakuneko/gpk_fwmaker)で書き込む場合</summary><div>
+<details><summary>GPK FWMakerでビルドして書き込む場合</summary><div>
 
 QMK のファームウェアをビルドするために[GPK FWMaker](https://github.com/darakuneko/gpk_fwmaker) が使用できます。
 Docker を使用して簡単にビルドできるのでオススメです。
