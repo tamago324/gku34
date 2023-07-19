@@ -108,10 +108,12 @@ RP2040-Zero の角を4箇所はんだ付けをし、浮いていないことを�
 
 #### ファームウェアの書き込み
 
-RP2040-Zero の左側のボタンを押しながら、USB を接続し、
-新しいデバイスとしてファイルエクスプローラに表示されたデバイスに [firmware/gku34_rev01_test.uf2](docs/rev0.1/firmware/gku34_rev01_test.uf2) をコピーします。コピーが完了すると、デバイスが切断されます。
+[Remap のファームウェア](https://remap-keys.app/catalog/Vax92NppUdpJnLsBweYy/firmware) のページからダウンロードし、
 
+RP2040-Zero の左側のボタンを押しながら、USB を接続し、
+新しいデバイスとしてファイルエクスプローラに表示されたデバイスに、ダウンロードしたファイルををコピーします。コピーが完了すると、デバイスが切断されます。
 デバイスが切断されたら、ファームウェアの書き込みが完了です。
+
 
 #### 入力の確認
 
@@ -155,7 +157,7 @@ RP2040-Zero の左側のボタンを押しながら、USB を接続し、
 
 Remap か QMK を使用してキーマップを変更可能です。
 
-* Remap の場合: キーボードカタログの gku34 のページで設定可能です。 (7/17時点では申請中となっています)
+* Remap の場合: キーボードカタログの gku34 のページで設定可能です。
 * QMK の場合: [tamago324/qmk_firmware](https://github.com/tamago324/qmk_firmware/tree/tamago324/keyboards/tamago324/gku34) の `tamago324` ブランチの `keyboards/tamago324/gku34` にファームウェアがあります。また、バージョンは 0.18系です
 
 <details><summary>[GPK FWMaker](https://github.com/darakuneko/gpk_fwmaker)で書き込む場合</summary><div>
