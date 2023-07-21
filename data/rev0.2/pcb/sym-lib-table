@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "rp2040zero")(type "KiCad")(uri "${KIPRJMOD}/symbols/rp2040-zero.kicad_sym")(options "")(descr ""))
+  (lib (name "foostan_kbd")(type "Legacy")(uri "${KIPRJMOD}/foostan_kbd_lib/kicad-symbols/kbd.lib")(options "")(descr ""))
+)
