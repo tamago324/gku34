@@ -163,7 +163,7 @@ Remap か QMK を使用してキーマップを変更可能です。
 
 * Remap の場合: キーボードカタログの gku34 のページで設定可能です。
 * QMK の場合: [tamago324/qmk_firmware](https://github.com/tamago324/qmk_firmware/tree/tamago324/keyboards/tamago324/gku34) の `tamago324` ブランチの `keyboards/tamago324/gku34` にファームウェアがあります。また、バージョンは 0.18系です
-* Vial の場合: [vial firmware](../../firmware/vial/gku34_rev01_vial.uf2) の uf2 ファイルをダウンロードし、書き込むことで [vial](https://get.vial.today/) を使用してキーマップの変更ができます。
+* Vial の場合: [こちら](../../firmware/vial/gku34_rev01_vial.uf2)の uf2 ファイルをダウンロードし、書き込むことで [vial](https://get.vial.today/) を使用してキーマップの変更ができます。 (すでに Vial のキーマップを設定している場合には、エクスポートしてから書き込んでください。Vial のキーマップがデフォルトのキーマップで上書きされてしまいます。)
 
 <details><summary>GPK FWMakerでビルドして書き込む場合</summary><div>
 
