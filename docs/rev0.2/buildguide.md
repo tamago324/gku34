@@ -164,7 +164,7 @@ RP2040-Zero の左側のボタンを押しながら、USB を接続し、
 ### 10. キーマップの変更
 
 Remap か QMK か Vial を使用してキーマップを変更可能です。
-* QMK の場合: [tamago324/qmk_firmware](https://github.com/tamago324/qmk_firmware/tree/tamago324/keyboards/tamago324/gku34) の `tamago324` ブランチの `keyboards/tamago324/gku34` にファームウェアがあります。また、バージョンは 0.18系です
+* QMK の場合: [tamago324/qmk_firmware](https://github.com/tamago324/qmk_firmware/tree/tamago324/keyboards/tamago324/gku34) の `tamago324` ブランチの `keyboards/tamago324/gku34` にファームウェアがあります。また、バージョンは 0.21系です
   * GPK FWMakerでビルドして書き込む場合は[こちら](../gpk_fwmaker_buide.md)
 * Vial の場合: [こちら](../../firmware/vial/gku34_rev01_vial.uf2) の uf2 ファイルをダウンロードし、書き込むことで [vial](https://get.vial.today/) を使用してキーマップの変更ができます。
   * Vial のインストールなどについては[こちら](../vial_guide.md)
