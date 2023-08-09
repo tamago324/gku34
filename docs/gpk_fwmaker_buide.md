@@ -50,7 +50,11 @@ ubuntu: `/home/xxxx/GPKFW`
 Windows の場合:
 
 ```
+# qmk の場合
 curl -X POST -H "Content-Type: application/json" -d "{\"kb\": \"gku34/rev01\", \"km\": \"default\", \"tag\": \"0.18.17\"}" 127.0.0.1:3123/build/qmk
+
+# vial の場合
+curl -X POST -H "Content-Type: application/json" -d "{\"kb\": \"gku34/rev01\", \"km\": \"vial\"}" 127.0.0.1:3123/build/vial
 ```
 
 `C:\Users\xxxx\GPKFW` に `gku34_rev01_default.uf2` が生成される
