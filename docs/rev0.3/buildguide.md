@@ -40,7 +40,7 @@ gku34 rev0.3 のビルドガイドです。 (rev0.2との変更点は [Lofree �
 | 名前                     | 数量 | 備考                 |
 |--------------------------|------|----------------------|
 | RP2040-Zero             | 1個 |[スイッチサイエンス](https://www.switch-science.com/products/7886/) などで購入できます。 |
-| キーキャップ            | 34個 | choc v1用、またはMX用キーキャップ  |
+| キーキャップ            | 34個 | choc v1用、またはMX用キーキャップ<br>Lofreeスイッチを取り付ける場合、Junana MX キーキャップがおすすめです。([1U 凹形](https://booth.pm/ja/items/5551574)、[1U 凸形](https://booth.pm/ja/items/5551877))  |
 | キースイッチ             | 34個 | choc v1スイッチ、または [Lofree スイッチ](https://www.lofree.co/products/lofree-x-kailh-full-pom-low-profile-switches)         |
 | USBケーブル              | 1個  | Type-C の USBケーブル |
 
