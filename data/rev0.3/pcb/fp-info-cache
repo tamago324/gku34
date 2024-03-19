@@ -1,4 +1,4 @@
-20962625215294484
+20964335468256555
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87599,6 +87599,13 @@ ResetSW_1side
 2
 gku34
 SW_Choc
+Kailh Choc Switch
+Kailh,Choc
+0
+8
+2
+gku34
+SW_Choc_V2
 Kailh Choc Switch
 Kailh,Choc
 0
