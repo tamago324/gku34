@@ -1,7 +1,9 @@
 # gku34
 
-* horizon プラグインを使ってボトムプレートを生成
-* choc v1
+* KiCad 6 で作成
+* [horizon プラグイン](https://github.com/skarrmann/horizon/blob/5833ec133d5f8fa4f3824622efd5dbfc89d797ec/kicad-plugins/horizon-board-producer-plugin.py)を使ってボトムプレートを生成
+* choc v1 (rev0.1, rev0.2)
+* Lofree switch (rev0.3)
 
 ![](./assets/readme_1.png)
 
