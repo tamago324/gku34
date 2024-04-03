@@ -33,7 +33,7 @@ docker compose up -d
 
 ### QMKのキーボードディレクトリをコピーする
 
-GPKFW ディレクトリに QMKの keyboards/tamago324/gku34 ディレクトリを、環境に合わせて以下のディレクトリにコピーする
+GPKFW ディレクトリに QMKの [keyboards/tamago324/gku34](https://github.com/tamago324/qmk_firmware/tree/tamago324_v2/keyboards/tamago324/gku34) ディレクトリを、環境に合わせて以下のディレクトリにコピーする
 
 windows: `C:\Users\xxxx\GPKFW`
 mac: `/Users/xxxx/GPKFW`
