@@ -59,6 +59,16 @@ curl -X POST -H "Content-Type: application/json" -d "{\"kb\": \"gku34/rev01\", \
 
 `C:\Users\xxxx\GPKFW` に `gku34_rev01_default.uf2` が生成される
 
+Linux の場合:
+
+```
+# qmk
+curl -X POST -H "Content-Type: application/json" -d "{\"kb\": \"gku34/rev01\", \"km\": \"tamago324\", \"tag\": \"0.21.5\"}" 127.0.0.1:3123/build/qmk
+
+# vial
+curl -X POST -H "Content-Type: application/json" -d '{"kb": "gku34/rev01", "km": "vial"}' 127.0.0.1:3123/build/vial
+```
+
 ### ファームウェアの書き込み
 
 RP2040-Zero の左側のボタンを押しながら、USB を接続する
